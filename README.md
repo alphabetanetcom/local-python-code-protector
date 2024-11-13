@@ -16,6 +16,9 @@ Reserved.*
 
 ------------------------------------------------------------------------
 
+**Note:** This project is currently in **Beta Testing** and available
+for free.
+
 **Table of Contents**
 
 - [1. Introduction](#1-introduction)

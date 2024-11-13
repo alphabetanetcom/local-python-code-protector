@@ -412,11 +412,14 @@ Your Hardware ID (HWID) is: 123456789012345678
 # Appendix C: Contact Information
 
 If you experience issues or have questions not covered in this
-documentation, please contact the Alpha Beta Network Research Team.
+documentation, please contact the **Alpha Beta Network Research Team**.
 
--   **Website**: https://alphabetanet.com \| https://αβ.net
+-   **Website:** https://alphabetanet.com \| https://αβ.net
 
 -   **Official Telegram Channel**: https://t.me/alphabetanetcom
+
+Stay connected to receive updates, provide feedback, and get early
+access to extended functionality.
 
 ------------------------------------------------------------------------
 

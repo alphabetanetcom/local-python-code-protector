@@ -10,7 +10,6 @@
 [![Encryption](https://img.shields.io/badge/encryption-enabled-brightgreen.svg)](README.md#main-functions-of-the-script)
 
 *Version: 1.2\
-Author: Alpha Beta Network Research Team\
 © 2024 αβ.net (alphabetanet.com) - Alpha Beta Network. All Rights
 Reserved.*
 

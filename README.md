@@ -45,52 +45,6 @@ for free.
 
 ------------------------------------------------------------------------
 
-**Table of Contents**
-
--   1\. Introduction
-
--   2\. Installation
-
--   3\. Main Functions of the Script
-
-    -   3.1 Obfuscating Python Source Files
-
-    -   3.2 Obfuscating Compiled Python Files
-
--   4\. Detailed Description of Each Function
-
-    -   4.1 Obfuscating Python Source Files
-
-    -   4.2 Obfuscating Compiled Python Files
-
--   5\. Additional Features
-
-    -   5.1 Restricting Code Execution to Specific Devices
-
-    -   5.2 Setting an Expiration Date
-
-    -   5.3 Adding Custom Messages
-
--   6\. Usage Examples
-
-    -   6.1 Basic Obfuscation of a Source File
-
-    -   6.2 Obfuscation with Device Restrictions
-
-    -   6.3 Obfuscation with Expiration Date
-
-    -   6.4 Obfuscation with All Features
-
--   7\. Recommendations and Best Practices
-
--   Appendix A: Installation of Required Packages
-
--   Appendix B: Generating Hardware IDs
-
--   Appendix C: Contact Information
-
-------------------------------------------------------------------------
-
 # 1. Introduction
 
 The **Local Python Code Protector Script** is a command-line tool

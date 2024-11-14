@@ -362,6 +362,7 @@ Your Hardware ID (HWID) is: 123456789012345678
 ```
 3.  Use this HWID with the -d or \--device parameter when obfuscating
     your code.
+    
 ------------------------------------------------------------------------
 
 # Appendix C: Contact Information

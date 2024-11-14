@@ -19,10 +19,10 @@ repository-artifact: >-
   https://github.com/alphabetanetcom/local-python-code-protector/releases
 abstract: >-
   A command-line tool designed to provide source code protection
- and secure code sharing for Python scripts. It allows developers
- to obfuscate their Python code. This script supports both Python
- source files (.py) and compiled Python files (.pyc), offering
- flexible options for code obfuscation and encryption.
+  and secure code sharing for Python scripts. It allows developers
+  to obfuscate their Python code. This script supports both Python
+  source files (.py) and compiled Python files (.pyc), offering
+  flexible options for code obfuscation and encryption.
 keywords:
   - secure code sharing
   - source code protection

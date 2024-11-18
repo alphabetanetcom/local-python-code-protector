@@ -41,7 +41,8 @@ for free.
 - [7. Recommendations and Best Practices](#7-recommendations-and-best-practices)
 - [Appendix A: Installation of Required Packages](#appendix-a-installation-of-required-packages)
 - [Appendix B: Generating Hardware IDs](#appendix-b-generating-hardware-ids)
-- [Appendix C: Contact Information](#appendix-c-contact-information)
+- [Appendix C: Real-World Example - Universal Python Module with Multi-Version Compatibility](#appendix-c-real-world-example---universal-python-module-with-multi-version-compatibility)
+- [Appendix D: Contact Information](#appendix-d-contact-information)
 
 ------------------------------------------------------------------------
 
@@ -365,7 +366,140 @@ Your Hardware ID (HWID) is: 123456789012345678
  
 ------------------------------------------------------------------------
 
-# Appendix C: Contact Information
+# Appendix C: Real-World Example - Universal Python Module with Multi-Version Compatibility
+
+In this appendix, we present a **real-world example** of applying the
+Local Python Code Protector Script to create a **secure, cross-platform,
+and multi-version compatible Python module**.
+
+**C.1 Overview**
+
+The file system_hardware_id_generator.pyz is a universal Python module
+that encapsulates multiple protected .pyc files, each corresponding to a
+different Python version. It is optimized
+for **cross-platform** and **multi-version compatibility**,
+automatically detecting the current Python interpreter version and
+executing the appropriate protected module.
+
+**C.2 Construction of the Universal Module**
+
+**C.2.1 Protected .pyc Files**
+
+Eight protected .pyc files were generated for different Python versions
+using the Local Python Code Protector Script. The protection process was
+applied **twice** to each file to strengthen the security.
+
+Protected files:
+
+-   system_hardware_id_generator_python36.pyc (Python 3.6)
+
+-   system_hardware_id_generator_python37.pyc (Python 3.7)
+
+-   system_hardware_id_generator_python38.pyc (Python 3.8)
+
+-   system_hardware_id_generator_python39.pyc (Python 3.9)
+
+-   system_hardware_id_generator_python310.pyc (Python 3.10)
+
+-   system_hardware_id_generator_python311.pyc (Python 3.11)
+
+-   system_hardware_id_generator_python312.pyc (Python 3.12)
+
+-   system_hardware_id_generator_python313.pyc (Python 3.13)
+
+**C.2.2 Multi-Version PYZ Builder**
+
+The integration of these files into a single .pyz archive was achieved
+using the **Multi-Version PYZ Builder**, a software solution that
+leverages Alpha Beta Network technologies.
+
+**Key Features:**
+
+-   **Automatic Python Version Detection**: The module determines the
+    current Python interpreter version at runtime.
+
+-   **Version-Specific Execution**: Executes the protected .pyc file
+    corresponding to the detected Python version.
+
+-   **Cross-Platform Compatibility**: Runs seamlessly on Windows, macOS,
+    Linux/Unix, and other operating systems.
+
+**C.3 Advantages of Using a Universal .pyz File**
+
+-   **Secure Code Sharing**: The source code is deeply protected from
+    analysis and recovery, ensuring high levels of **Python code
+    security** and **code obfuscation**.
+
+-   **Simplified Distribution**: Only one .pyz file needs to be
+    distributed, regardless of the Python version or operating system of
+    the end-user.
+
+-   **Enhanced Protection**: By using pre-compiled and protected
+    versions of the code, it adds an extra layer of security against
+    decompilation and unauthorized access.
+
+**C.4 Using the Universal Module**
+
+**To generate the Hardware ID (HWID) on any supported platform:**
+
+1.  **Execute the .pyz file: **
+
+```bash
+
+python system_hardware_id_generator.pyz
+```
+2.  **The module will display the HWID:**
+
+```bash
+
+Your Hardware ID (HWID) is: 123456789012345678
+```
+**Notes:**
+
+-   Ensures **secure code execution** without exposing the original
+    source code.
+
+-   Compatible with multiple Python versions, making it an ideal
+    solution for environments with varied Python installations.
+
+**C.5 Building Your Own Universal Module**
+
+To create a similar universal Python module for your protected scripts:
+
+1.  **Protect Your Scripts**: Use the Local Python Code Protector Script
+    to obfuscate your .py files for each Python version you wish to
+    support.
+
+2.  **Use Multi-Version PYZ Builder**: Integrate the
+    protected .pyc files into a single .pyz archive using the
+    Multi-Version PYZ Builder.
+
+3.  **Distribute the .pyz File**: Share the universal .pyz file with
+    your users, ensuring they can run it on their platform and Python
+    version without additional configurations.
+
+**Benefits:**
+
+-   Combines the strengths of **code obfuscation**, **encryption**,
+    and **secure code sharing**.
+
+-   Facilitates **cross-platform** and **multi-version** support,
+    enhancing user experience.
+
+-   Aligns with **Python code security best practices** by minimizing
+    exposure of sensitive code.
+
+**C.6 Conclusion**
+
+The use of a universal .pyz file exemplifies advanced techniques
+in **source code protection** and **secure code sharing**. By leveraging
+the Local Python Code Protector Script and the Multi-Version PYZ
+Builder, developers can create robust, secure, and versatile Python
+modules suitable for distribution across diverse environments.
+
+------------------------------------------------------------------------
+
+# Appendix D: Contact Information
 
 If you experience issues or have questions not covered in this
 documentation, please contact the **Alpha Beta Network Research Team**.

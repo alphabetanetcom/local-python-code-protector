@@ -1,5 +1,6 @@
 **Local Python Code Protector Script Documentation**
 
+[![DOI](https://zenodo.org/badge/888018729.svg)](https://doi.org/10.5281/zenodo.14183134)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![Code Protection](https://img.shields.io/badge/code-protection-green.svg)](README.md#main-functions-of-the-script)

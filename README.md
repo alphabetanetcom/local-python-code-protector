@@ -79,6 +79,11 @@ This tool is ideal for developers who need to protect their Python code
 when sharing it with clients, colleagues, or deploying it on servers,
 ensuring **Python code security best practices** are upheld.
 
+The Local Python Code Protector Script can also be effectively used to further
+protect licensed source code files created by the Alpha Beta Network cloud 
+platform (more advanced and flexible source code protection solutions such 
+as [Python Obfuscator Online](https://obfuscator.αβ.net/) and [Secure Python Code Manager Script](https://github.com/alphabetanetcom/secure-python-code-manager)).
+
 ------------------------------------------------------------------------
 
 # 2. Installation

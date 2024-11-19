@@ -312,7 +312,7 @@ python local_python_code_protector.py -f my_script.py -d 123456789012345678 -e 2
 
 -   **Combine with Cloud Protection**: For more robust protection,
     consider using cloud-based solutions
-    like [Secure Python Code Manager](https://github.com/alphabetanetcom/secure-python-code-manager).
+    like [Secure Python Code Manager](https://github.com/alphabetanetcom/secure-python-code-manager) and [Python Obfuscator Online](https://obfuscator.αβ.net/).
 
 ------------------------------------------------------------------------
 

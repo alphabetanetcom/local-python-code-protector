@@ -3,12 +3,11 @@
 [![DOI](https://zenodo.org/badge/888018729.svg)](https://doi.org/10.5281/zenodo.14183134)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
-[![Code Protection](https://img.shields.io/badge/code-protection-green.svg)](README.md#main-functions-of-the-script)
-[![Secure Code](https://img.shields.io/badge/secure-code-green.svg)](README.md#introduction)
-[![Python Security](https://img.shields.io/badge/python-security-blue.svg)](README.md#recommendations-and-best-practices)
-[![Code Obfuscation](https://img.shields.io/badge/code-obfuscation-blue.svg)](README.md#main-functions-of-the-script)
-[![Secure Transfer](https://img.shields.io/badge/secure-transfer-blue.svg)](README.md#introduction)
-[![Encryption](https://img.shields.io/badge/encryption-enabled-brightgreen.svg)](README.md#main-functions-of-the-script)
+[![Source Protection](https://img.shields.io/badge/source-protection-brightgreen.svg)](README.md#1-introduction)
+[![Code Security](https://img.shields.io/badge/code-security-brightgreen.svg)](README.md#7-recommendations-and-best-practices)
+[![Python Obfuscator](https://img.shields.io/badge/python-obfuscator-blue.svg)](README.md#31-obfuscating-python-source-files)
+[![License Management](https://img.shields.io/badge/license-management-blue.svg)](README.md#52-setting-an-expiration-date)
+[![Secure Distribution](https://img.shields.io/badge/secure-distribution-green.svg)](README.md#appendix-c-real-world-example---universal-python-module-with-multi-version-compatibility)
 
 *Version: 1.2\
 © 2024 αβ.net (alphabetanet.com) - Alpha Beta Network. All Rights

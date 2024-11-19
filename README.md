@@ -448,7 +448,7 @@ leverages Alpha Beta Network technologies.
 
 **To generate the Hardware ID (HWID) on any supported platform:**
 
-1.  **Execute the .pyz file: **
+1.  **Execute the .pyz file:**
 
 ```bash
 

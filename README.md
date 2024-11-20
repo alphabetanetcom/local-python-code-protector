@@ -3,6 +3,7 @@
 [![DOI](https://zenodo.org/badge/888018729.svg)](https://doi.org/10.5281/zenodo.14183134)
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
+[![Cross-Platform](https://img.shields.io/badge/cross--platform-yes-brightgreen.svg)](#1-introduction)
 [![Source Protection](https://img.shields.io/badge/source-protection-brightgreen.svg)](README.md#1-introduction)
 [![Code Security](https://img.shields.io/badge/code-security-brightgreen.svg)](README.md#7-recommendations-and-best-practices)
 [![Python Obfuscator](https://img.shields.io/badge/python-obfuscator-blue.svg)](README.md#31-obfuscating-python-source-files)

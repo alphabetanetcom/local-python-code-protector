@@ -38,6 +38,6 @@ keywords:
   - code security
   - python obfuscator
   - secure distribution
-version: v1.2-beta.1
+version: v1.2.1-beta.1
 date-released: '2024-11-14'
 license-url: 'https://github.com/alphabetanetcom/local-python-code-protector/blob/main/LICENSE.md'

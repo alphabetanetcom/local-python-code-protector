@@ -10,8 +10,8 @@
 [![License Management](https://img.shields.io/badge/license-management-blue.svg)](README.md#52-setting-an-expiration-date)
 [![Secure Distribution](https://img.shields.io/badge/secure-distribution-green.svg)](README.md#appendix-c-real-world-example---universal-python-module-with-multi-version-compatibility)
 
-*Version: 1.2\
-© 2024 αβ.net (alphabetanet.com) - Alpha Beta Network. All Rights
+*Version: 1.3\
+© 2025 αβ.net (alphabetanet.com) - Alpha Beta Network. All Rights
 Reserved.*
 
 ------------------------------------------------------------------------
@@ -519,5 +519,5 @@ access to extended functionality.
 
 ------------------------------------------------------------------------
 
-© 2024 αβ.net (alphabetanet.com) - **Alpha Beta Network**. All Rights
+© 2025 αβ.net (alphabetanet.com) - **Alpha Beta Network**. All Rights
 Reserved.
